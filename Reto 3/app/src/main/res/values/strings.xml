@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Triqui</string>
+
+    <!-- vs Android -->
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_android">Turno de Android…</string>
+    <string name="result_human_wins">¡Ganaste!</string>
+    <string name="result_android_wins">¡Ganó Android!</string>
+
+    <!-- 2 jugadores -->
+    <string name="turn_player1">Turno del Jugador 1.</string>
+    <string name="turn_player2">Turno del Jugador 2.</string>
+    <string name="result_player1_wins">¡Ganó el Jugador 1!</string>
+    <string name="result_player2_wins">¡Ganó el Jugador 2!</string>
+
+    <!-- Común -->
+    <string name="result_tie">¡Es un empate!</string>
+
+    <!-- UI -->
+    <string name="new_game">Nueva partida</string>
+    <string name="mode_vs_android">vs Android</string>
+    <string name="mode_vs_player">2 Jugadores</string>
+    <string name="score_human">Humano</string>
+    <string name="score_android">Android</string>
+    <string name="score_player1">Jugador 1</string>
+    <string name="score_player2">Jugador 2</string>
+    <string name="score_ties">Empates</string>
+</resources>
