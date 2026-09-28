@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Triqui Reto 5</string>
+
+    <!-- vs Android -->
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_android">Turno de Android…</string>
+    <string name="result_human_wins">¡Ganaste!</string>
+    <string name="result_android_wins">¡Ganó Android!</string>
+
+    <!-- 2 jugadores -->
+    <string name="turn_player1">Turno del Jugador 1.</string>
+    <string name="turn_player2">Turno del Jugador 2.</string>
+    <string name="result_player1_wins">¡Ganó el Jugador 1!</string>
+    <string name="result_player2_wins">¡Ganó el Jugador 2!</string>
+
+    <!-- Común -->
+    <string name="result_tie">¡Es un empate!</string>
+
+    <!-- UI -->
+    <string name="new_game">Nueva partida</string>
+    <string name="mode_vs_android">vs Android</string>
+    <string name="mode_vs_player">2 Jugadores</string>
+    <string name="score_human">Humano</string>
+    <string name="score_android">Android</string>
+    <string name="score_player1">Jugador 1</string>
+    <string name="score_player2">Jugador 2</string>
+    <string name="score_ties">Empates</string>
+
+    <!-- Menú de opciones -->
+    <string name="menu_new_game">Nueva partida</string>
+    <string name="difficulty_level">Dificultad</string>
+    <string name="quit">Salir</string>
+    <string name="about">Acerca de</string>
+
+    <string name="menu_options">Opciones</string>
+
+    <!-- Diálogo de dificultad -->
+    <string name="difficulty_choose">Elige un nivel de dificultad:</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_harder">Difícil</string>
+    <string name="difficulty_expert">Experto</string>
+
+    <!-- Diálogo de salir -->
+    <string name="quit_question">¿Seguro que quieres salir?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+    <!-- Diálogo Acerca de -->
+    <string name="about_title">Triqui Reto 5</string>
+    <string name="about_author">Por jdrodgom</string>
+    <string name="about_text">Tablero dibujado con un View personalizado, con imágenes y efectos de sonido.\n¡No dejes que el Android te gane!</string>
+    <string name="ok">OK</string>
+    <string name="about_icon_description">Icono de Triqui</string>
+</resources>
