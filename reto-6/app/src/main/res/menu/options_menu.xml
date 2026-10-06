@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/new_game"
+        android:icon="@drawable/ic_new_game"
+        android:title="@string/menu_new_game" />
+    <item
+        android:id="@+id/ai_difficulty"
+        android:icon="@drawable/ic_difficulty"
+        android:title="@string/difficulty_level" />
+    <item
+        android:id="@+id/reset_scores"
+        android:icon="@drawable/ic_reset_scores"
+        android:title="@string/reset_scores" />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_about"
+        android:title="@string/about" />
+</menu>
