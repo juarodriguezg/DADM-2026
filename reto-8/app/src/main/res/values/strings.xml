@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Empresas</string>
+
+    <!-- Lista -->
+    <string name="title_directory">Directorio de empresas</string>
+    <string name="search_hint">Buscar por nombre</string>
+    <string name="clear_search">Borrar búsqueda</string>
+    <string name="add_company">Agregar empresa</string>
+    <string name="empty_list">No hay empresas que coincidan</string>
+    <string name="empty_list_hint">Cambia el filtro o agrega una empresa con +</string>
+    <string name="company_count">%1$d empresa(s)</string>
+
+    <!-- Clasificaciones -->
+    <string name="class_consultoria">Consultoría</string>
+    <string name="class_desarrollo_medida">Desarrollo a la medida</string>
+    <string name="class_fabrica_software">Fábrica de software</string>
+
+    <!-- Formulario -->
+    <string name="title_new_company">Nueva empresa</string>
+    <string name="title_edit_company">Editar empresa</string>
+    <string name="field_name">Nombre de la empresa *</string>
+    <string name="field_url">Página web</string>
+    <string name="field_phone">Teléfono de contacto</string>
+    <string name="field_email">Email de contacto</string>
+    <string name="field_products">Productos y servicios</string>
+    <string name="field_classification">Clasificación *</string>
+    <string name="save">Guardar</string>
+    <string name="back">Volver</string>
+    <string name="error_name_required">El nombre es obligatorio</string>
+    <string name="error_url_invalid">URL no válida</string>
+    <string name="error_email_invalid">Email no válido</string>
+    <string name="error_classification_required">Elige al menos una clasificación</string>
+    <string name="company_saved">Empresa guardada</string>
+
+    <!-- Eliminar -->
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_title">¿Eliminar empresa?</string>
+    <string name="delete_message">¿Eliminar «%1$s»? Esta acción no se puede deshacer.</string>
+    <string name="company_deleted">Empresa eliminada</string>
+</resources>
